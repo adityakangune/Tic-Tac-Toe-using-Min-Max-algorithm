@@ -13,7 +13,16 @@ If you change self.player to 2 then the ai starts the game.
 - press 'r' to reset the game
 
 ## GIFS
-![Alt Text](https://drive.google.com/file/d/1uPmjt9EYQkJuRl119PJgJqkn4SU77Fsk/view?usp=sharing)
+
+### GIF 1 - Cross Wins
+![snapshot1](https://media.giphy.com/media/zxalIukfSkxhsgN3cJ/giphy.gif)
+
+### GIF 2 - Circle Wins
+![snapshot1](https://media.giphy.com/media/DPG2hv66fL0YPTX6aD/giphy.gif)
+
+### GIF 3 - Draw
+![gif1](https://media.giphy.com/media/n6R2FaKd26hLtjYlUE/giphy.gif)
+
 
 ## Game Snapshots
 
