@@ -1,6 +1,8 @@
 # Tic-Tac-Toe-using-Min-Max-algorithm
 This is a game created using pygame and min-max algorithm in AI.
 
+Inspired by the code by Alejandro (AlejoG10)
+
 If you change self.player to 2 then the ai starts the game.
 
 ## Game Instructions
