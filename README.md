@@ -12,6 +12,9 @@ If you change self.player to 2 then the ai starts the game.
 - press '1' for ai level 1 (ai selects squares according to min-max algorithm) : Impossible to defeat :-)
 - press 'r' to reset the game
 
+## GIFS
+![Alt Text](https://drive.google.com/file/d/1uPmjt9EYQkJuRl119PJgJqkn4SU77Fsk/view?usp=sharing)
+
 ## Game Snapshots
 
 ### Snapshot 1 - Start
